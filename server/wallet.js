@@ -70,7 +70,7 @@ function getItems(req, res, next) {
         })
         .catch(next);
 }
-
+/*commento*/
 exports.addItem = addItem;
 exports.deleteItem = deleteItem;
 exports.getItems = getItems;
